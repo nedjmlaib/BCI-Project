@@ -7,7 +7,7 @@
 
 # Background Information
 
-BCI division of Sheffield Bionics, a student-led society at the University of Sheffield. There are 3 main teams, namely Machine Learning, Signal Processing, and Data Collection, who are each responsible for a different step in the BCI-creation pipeline.
+Main repo for the BCI division of Sheffield Bionics, a student-led society at the University of Sheffield. There are 3 main teams, namely Machine Learning, Signal Processing, and Data Collection, who are each responsible for a different step in the BCI-creation pipeline.
 
 For 2024/25, we plan to develop a BCI that will allow individuals with motor impairments to play Atari Pong using only thoughts. Planning to implement an Attention-based LSTM model in PyTorch to detect thought patterns from an Ultracortex Mk. IV headset's EEG signals, supported by signal processing with SciPy and PostgreSQL for EEG data storage, with a target accuracy of 75-85%.
 
