@@ -12,7 +12,14 @@ Main repo for the BCI division of Sheffield Bionics, a student-led society at th
 For 2024/25, we plan to develop a BCI that will allow individuals with motor impairments to play Atari Pong using only thoughts. Planning to implement an Attention-based LSTM model in PyTorch to detect thought patterns from an Ultracortex Mk. IV headset's EEG signals, supported by signal processing with SciPy and PostgreSQL for EEG data storage, with a target accuracy of 75-85%.
 
 ## Members
+### Machine Learning team
+[Shohail Ismail](https://github.com/shohail-ismail)
 
+
+### Signal Processing team
+
+
+### Data Collection team
 
 
 # Core Features
