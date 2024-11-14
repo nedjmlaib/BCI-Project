@@ -14,6 +14,7 @@ For 2024/25, we plan to develop a BCI that will allow individuals with motor imp
 ## Members
 ### Machine Learning team
 [Shohail Ismail](https://github.com/shohail-ismail)
+
 [Lucy Dalzell](https://github.com/luna-dzx)
 
 
