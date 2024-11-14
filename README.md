@@ -20,6 +20,7 @@ For 2024/25, we plan to develop a BCI that will allow individuals with motor imp
 ### Signal Processing team
 [Thorpe Thorpe](https://github.com/ImJustChaotic)
 
+[Nayantara Njondimackal](https://github.com/lnlnlnl)
 
 ### Data Collection team
 
