@@ -17,6 +17,7 @@ For 2024/25, we plan to develop a BCI that will allow individuals with motor imp
 
 [Lucy Dalzell](https://github.com/luna-dzx)
 
+[Nedjm Laib](https://github.com/nedjmlaib)
 
 ### Signal Processing team
 [Thorpe Thorpe](https://github.com/ImJustChaotic)
